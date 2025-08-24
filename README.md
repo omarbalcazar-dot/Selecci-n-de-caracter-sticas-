@@ -31,4 +31,12 @@ Herramientas utilizadas:
 • r2_score para ver desempeño en prueba
 
 El trabajo muestra cómo la selección de caracteristicas ayuda a balancear el desempeño predictivo con la simplicidad del modelo. Forward alcanzo un R² de prueba un poco mayor, backward logra casi el mismo rendimiento con menos variables, lo cual puede ser buenos en terminos de eficiencia.
- 
+
+
+La actividad va de 3 documentos:
+
+[reporte ipynb]()
+
+[reporte html]()
+
+[reporte Vino_Tinto.cvs]()
