@@ -35,8 +35,8 @@ El trabajo muestra cómo la selección de caracteristicas ayuda a balancear el d
 
 La actividad va de 3 documentos:
 
-[reporte ipynb]()
+[reporte ipynb](A1.4_652911.ipynb)
 
-[reporte html]()
+[reporte html](A1.4_652911.html)
 
-[reporte Vino_Tinto.cvs]()
+[reporte Vino_Tinto.cvs](Vino_Tinto.cvs)
